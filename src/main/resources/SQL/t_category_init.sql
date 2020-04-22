@@ -1,0 +1,11 @@
+INSERT INTO t_category(fname) VALUES ('区块链');
+INSERT INTO t_category(fname) VALUES ('优秀官网');
+INSERT INTO t_category(fname) VALUES ('程序开发');
+INSERT INTO t_category(fname) VALUES ('IT资源');
+INSERT INTO t_category(fname) VALUES ('设计');
+INSERT INTO t_category(fname) VALUES ('其他资源');
+INSERT INTO t_category(fname) VALUES ('软件');
+INSERT INTO t_category(fname) VALUES ('Docker');
+INSERT INTO t_category(fname) VALUES ('大数据');
+INSERT INTO t_category(fname) VALUES ('人工智能');
+INSERT INTO t_category(fname) VALUES ('MongoDB');
